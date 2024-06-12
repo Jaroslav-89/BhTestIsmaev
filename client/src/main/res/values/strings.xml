@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BhTestIsmaev Client</string>
+    <string name="browser">com.android.chrome</string>
+    <string name="google_url">https://www.google.com</string>
+    <string name="config">Config</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="enter_ip">Enter_ip</string>
+    <string name="enter_port">Enter port</string>
+    <string name="save">Save</string>
+</resources>

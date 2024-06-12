@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BhTestIsmaev Server</string>
+    <string name="config">Config</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="logs">Logs</string>
+    <string name="enter_port">Enter port</string>
+    <string name="save">Save</string>
+</resources>
