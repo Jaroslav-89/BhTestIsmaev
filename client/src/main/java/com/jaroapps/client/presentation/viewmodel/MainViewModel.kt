@@ -41,7 +41,7 @@ internal class MainViewModel(
         getConfig()
     }
 
-    private fun checkConnectStatus() {
+    fun checkConnectStatus() {
         viewModelScope.launch(Dispatchers.IO) {
             isConnected = mainInteractor.checkConnectStatus()
             _screenState.postValue(MainScreenState.Value(isConnected))
