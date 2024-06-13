@@ -21,8 +21,6 @@ UI на Compose: кнопка Config для выбора порта, кнопк�
 5. Отсутствие закомментированного кода.
 6. Разделение сервисов на слои.
 
- <img src="https://github.com/Jaroslav-89/PlaylistMaker/blob/dev/photo_2024-06-01_18-53-30.jpg"  width="270" height="600" alt="Search screen">
-
 ## Клиент.
 ![Client main screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_main_screen.jpg)
 ![Client open config](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_open_config.jpg)
