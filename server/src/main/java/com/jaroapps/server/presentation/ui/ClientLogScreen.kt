@@ -23,6 +23,7 @@ import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
@@ -44,7 +45,7 @@ internal fun ClientLogScreen(
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("Логи") },
+                title = { Text(text = stringResource(id = R.string.server_log)) },
                 navigationIcon = {
                     IconButton(onClick = { navController.navigate("main_screen") }) {
                         Icon(
@@ -55,7 +56,7 @@ internal fun ClientLogScreen(
                 }
             )
         }
-    ) {paddingValues ->
+    ) { paddingValues ->
         SwipeEventList(uiState = uiState, paddingValues)
     }
 }

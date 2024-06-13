@@ -6,4 +6,5 @@
     <string name="logs">Logs</string>
     <string name="enter_port">Enter port</string>
     <string name="save">Save</string>
+    <string name="server_log"> Server log</string>
 </resources>
