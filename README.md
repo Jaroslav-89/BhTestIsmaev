@@ -20,3 +20,12 @@ UI на Compose: кнопка Config для выбора порта, кнопк�
 4. Использование DI решений.
 5. Отсутствие закомментированного кода.
 6. Разделение сервисов на слои.
+
+## Клиент.
+![Client main screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_main_screen.jpg)
+![Client open config](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_open_config.jpg)
+
+## Сервер. 
+![Server main screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_main_screen.jpg)
+![Server open config](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_open_config.jpg)
+![Server log screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_log_screen.jpg)
