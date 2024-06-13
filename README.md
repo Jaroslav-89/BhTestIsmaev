@@ -29,3 +29,5 @@ UI на Compose: кнопка Config для выбора порта, кнопк�
 ![Server main screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_main_screen.jpg)
 ![Server open config](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_open_config.jpg)
 ![Server log screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_log_screen.jpg)
+
+## Для работы приложения Клиента требуется дать разрешение в разделе настроек Специальные возможности/Доступность
