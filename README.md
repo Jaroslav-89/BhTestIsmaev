@@ -34,7 +34,8 @@ UI на Compose: кнопка Config для выбора порта, кнопк�
 - Shared preferences
 
 ### Клиент.
-![Client main screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_main_screen.jpg)
+<img src="https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_main_screen.jpg" width="270" height="600" alt="Client main screen">
+
 ![Client open config](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_open_config.jpg)
 
 ### Сервер. 
