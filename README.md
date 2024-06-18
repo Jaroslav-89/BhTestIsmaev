@@ -24,14 +24,14 @@ UI на Compose: кнопка Config для выбора порта, кнопк�
 
 ## Реализация:
 ### Стек: 
-Clean architecture
-MVVM
-LiveData
-Compose
-Ktor
-Gson
-Room
-Shared preferences
+- Clean architecture
+- MVVM
+- LiveData
+- Compose
+- Ktor
+- Gson
+- Room
+- Shared preferences
 
 ### Клиент.
 ![Client main screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_main_screen.jpg)
