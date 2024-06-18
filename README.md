@@ -36,11 +36,13 @@ UI на Compose: кнопка Config для выбора порта, кнопк�
 ### Клиент.
 <img src="https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_main_screen.jpg" width="270" height="600" alt="Client main screen">
 
-![Client open config](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_open_config.jpg)
+<img src="https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/client_open_config.jpg" width="270" height="600" alt="Client open config">
 
 ### Сервер. 
-![Server main screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_main_screen.jpg)
-![Server open config](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_open_config.jpg)
-![Server log screen](https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_log_screen.jpg)
+<img src="https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_main_screen.jpg" width="270" height="600" alt="Server main screen">
+
+<img src="https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_open_config.jpg)" width="270" height="600" alt="Server open config">
+
+<img src="https://github.com/Jaroslav-89/BhTestIsmaev/blob/dev/server_log_screen.jpg" width="270" height="600" alt="Server log screen">
 
 ### Для работы приложения Клиента требуется дать разрешение в разделе настроек Специальные возможности/Доступность
